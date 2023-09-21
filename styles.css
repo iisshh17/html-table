@@ -1,0 +1,24 @@
+
+#head{
+  background-color:brown;
+ }
+
+table,th,td{
+  border-collapse: collapse;
+}
+
+tr:nth-child(even){
+  background-color:lightgray;
+}
+.hey{
+  background-color:white;
+}
+
+table{
+  box-shadow:0px 2px brown;
+  }
+  
+ div{
+   text-size:20px
+ }
+
